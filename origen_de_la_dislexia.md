@@ -1,0 +1,33 @@
+# Origen de la dislexia
+
+
+![niño leyendo](img/Nino_leyendo.jpg)
+
+
+Los especialistas ponen el foco en dos posiciones con respecto al origen o etiología de esta dificultad de aprendizaje, por un lado, en los aspectos biológicos, y por otro, en los cognitivos.
+
+## Biológico
+
+Uno de los trastornos más comunes de la lectura es la dislexia del desarrollo, la cual, a diferencia de la alexia que está relacionada con una pérdida de la capacidad de leer, asociada a un daño cerebral, se refiere a un desorden específico en la adquisición de la lectura, y se manifiesta en dificultades reiteradas y persistentes para aprender a leer. Esta dislexia del desarrollo acontece con mayor frecuencia en varones y en aquellos niños que se han incorporado tarde al sistema educativo (Donfrancesco, Lozzino y Caruso, 2010).
+
+  
+_Imagen tomada de Pixabay_
+
+Diversos estudios se han dirigido a detectar anormalidades estructurales y funcionales que pudieran ser el origen de los problemas en la adquisición de la lectura. El empleo de técnicas de neuroimagen funcional, como la tomografía por emisión de positrones, la resonancia magnética espectroscópica y la resonancia magnética funcional permiten medir cambios en la actividad metabólica, asociados a alteraciones en las redes neuronales que participan en el proceso de la lectura. Los resultados muestran que en los disléxicos hay una desconexión temporoparietooccipital y una desconexión con la corteza frontal izquierda relativa a las demandas de procesamiento auditivo rápido, así como anormalidades en las conexiones entre la corteza temporoparietal y el cerebelo con otras regiones cerebrales. Dichos hallazgos sugieren que las áreas cerebrales alteradas no sólo muestran un patrón característico de hipoactivación, sino que estas alteraciones podrían ser la causa de este padecimiento (López-Escribano, 2007; Ostrosky, Lozano y Ramírez, 2003).
+
+Según el estudio presentado por Benítez-Burraco (2010), el cerebro de los individuos disléxicos presenta diversos tipos de malformaciones estructurales, así como patrones anómalos de actividad cerebral durante las tareas de lectura y deletreo, que conciernen, entre otras, a las áreas que integran el dispositivo de procesamiento.
+
+Investigaciones realizadas a mediados de los 90 apuntaban a la influencia del cerebelo en la destreza del lenguaje, convirtiéndose en un órgano responsable de la adquisición de habilidades tanto motrices como cognitivas. Ahora se ha demostrado que los pacientes con daño en el cerebelo presentan déficits atencionales, de memoria de trabajo y síntomas de tipo disléxico en la lectura. Se ha establecido una hipótesis biológica bien descrita a nivel cognitivo, basada en un déficit en la capacidad de automatización (Fawcett y Nicholson, 2007).
+
+La etiología genética sostiene que la dislexia es un trastorno hereditario. El 40% de los hermanos de niños disléxicos presentan en mayor o menor medida este trastorno. La base genética consistiría en la transmisión de un conjunto de rasgos cuantitativos que interactúan con el ambiente y generan diferencias en las habilidades lectoras. Desde esta posición se ha comprobado que existe la misma cantidad de niños que de niñas disléxicas y que no existe relación entre la dislexia y la lateralidad. En estudios genéticos realizados se han encontrado dos marcadores, los cromosomas quince y seis.  
+El primero sería el responsable de la discapacidad para la lectura global de la palabra y el segundo de la disfunción fonológica. Sin embargo, algunos genetistas de la conducta indican que hay una distribución continua, versus discontinua, de la habilidad y capacidad para leer, por lo que esta habilidad sería un rasgo cuantitativo y no sólo cualitativo (Expósito, 2002).
+
+## Cognitivo
+
+Desde un enfoque cognitivo también existe evidencia empírica de que los alumnos con dislexia presentan un déficit en habilidades fonológicas. Aunque el origen del déficit es controvertido, algunas investigaciones apuntan a un déficit en el procesamiento perceptivo del habla.
+
+Los problemas de discriminación fonética afectan a la calidad y precisión de las representaciones fonológicas en el léxico, que a su vez determina la eficiencia del sistema de procesamiento fonológico. Los niños con información poco precisa de fonemas y palabras tienen dificultades para establecer correspondencias entre grafemas y fonemas, por lo que la lectura requiere cierto desarrollo de la percepción del habla. Los procesos de la percepción del habla incluyen un análisis auditivo preliminar, el análisis de las características fonéticas y auditivas y la combinación de las características fonéticas en una representación fonológica. Si bien es cierto que algunas capacidades auditivas se desarrollan en etapas tempranas y otras parecen madurar a edades relativamente altas en relación al análisis auditivo preliminar, diferentes estudios han mostrado un efecto de la edad sobre el desarrollo del procesamiento auditivo de niños y adolescentes. Los estudios también sugieren que el desarrollo fonológico continúa después de la adquisición de la habilidad lectora. Por tanto, los problemas de percepción del habla de los alumnos con dislexia pueden interpretarse como alteraciones o retrasos en el desarrollo fonológico (Ortiz et al., 2008).
+
+Se presentan evidencias de que: a) el desarrollo de la percepción del habla continúa durante la Educación Primaria; b) el rendimiento de los disléxicos en todas las tareas de percepción del habla es inferior al de los normolectores; c) el desarrollo de la sonoridad en los normolectores se produce en 2º ciclo; d) el desarrollo de la discriminación del modo de articulación es lento y abarca toda la Educación Primaria; e) los períodos de máximo desarrollo del punto de articulación se producen en 2º y 3er ciclo para ambos grupos. En síntesis, durante la Educación Primaria los normolectores aumentaron significativamente su habilidad para discriminar la sonoridad, el punto y el modo de articulación, mientras que los disléxicos sólo experimentaron aumentos significativos en su habilidad para discriminar el punto de articulación (Ortiz et al., 2008).
+
+Al tiempo y con independencia de los enfoques, los niños disléxicos van a presentar otros problemas asociados como: déficits de atención y motrices, trastornos emocionales (déficit de autoestima, apatía hacia las tareas de aprendizaje, sentimientos de indefensión, etc.), disgrafía (dificultad en el trazo correcto de las letras, tamaño, presión, etc.), disortografía (dificultades en el uso correcto de la ortografía), además de problemas en el aprendizaje de cualquiera de las áreas curriculares dependiendo de cuál sea su afectación disléxica.

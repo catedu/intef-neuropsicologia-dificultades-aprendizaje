@@ -1,0 +1,13 @@
+# ¿Cómo se relaciona con el aprendizaje?
+
+
+![niño con lupa](img/boys-1825416_640.png)
+
+
+_Imagen tomada de Pixabay_
+
+Tanto en la vida cotidiana como en el ámbito académico, cuando el aprendizaje se vuelve formal y comienza la adquisición de la lectura, la escritura y el conocimiento matemático, entre otros, es necesario atender, comparar, diferenciar y buscar semejanzas para lograr asociaciones e integrar las nuevas ideas con las ya existentes (Aronen et al., 2005; Bull y Scerif, 2001; Rosselli, Jurado, y Matute, 2008). Por lo tanto, el manejo adecuado de los recursos atencionales es una competencia que facilita el aprendizaje de la lectoescritura (Aronen et al., 2005; Chun & Turk-Browne, 2007; Rosselli et al., 2008; Roselli, Matute, & Ardila, 2010).
+
+En el caso específico de la lectura, la habilidad para atender y mantener la concentración facilitan las funciones cognitivas necesarias para leer, como es la capacidad para decodificar estímulos visuales, velocidad en el procesamiento de la información y la capacidad de memoria operativa, entre otras (Rosselli, Matute y Ardila, 2004). Además, se ha encontrado que un nivel óptimo de atención es uno de los predictores de la velocidad de lectura en castellano (Rosselli, Matute y Ardila, 2006).
+
+En cuanto a la escritura, el manejo y distribución adecuada de los recursos atencionales permite centrar la atención en aquellos elementos más relevantes y mantener el desarrollo de la escritura hasta terminar el texto. Finalmente, la atención permite el manejo secuencial y la atención visual, que son necesarios para realizar tareas matemáticas (Badian, 1983), mientras que la atención sostenida, junto con la memoria operativa, juega un papel central en la realización de las operaciones aritméticas (Boller y Grafman, 1985; Roselli, Matute, y Ardila, 2010).
