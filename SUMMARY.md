@@ -3,8 +3,8 @@
 * [Introducción](README.md)
 
 ____
-### Sept17_Neuro_1: Procesos cognitivos
-* [INTRODUCCIÓN GENERAL AL CURSO](index.md)
+### Procesos cognitivos
+* [INTRODUCCIÓN GENERAL AL CURSO](index22.md)
 	* [PROCESOS COGNITIVOS](procesos_cognitivos.md)
 		* [Objetivos del módulo](objetivos_del_mdulo.md)
 		* [Ideas clave](ideas_clave.md)
@@ -30,7 +30,9 @@ ____
 		* [Cómo y cuándo se trabajan en el aula](cmo_y_cundo_se_trabajan_en_el_aula.md)
 	* [COMENTARIOS FINALES](comentarios_finales.md)
 	* [BIBLIOGRAFÍA](bibliografa.md)
-### Sept17_Neuro_1: El procesamiento del lenguaje
+
+
+### El procesamiento del lenguaje
 * [EL PROCESAMIENTO DEL LENGUAJE](index0.md)
 	* [Objetivos del módulo](objetivos_del_mdulo1.md)
 	* [Ideas clave](ideas_clave2.md)
@@ -50,7 +52,9 @@ ____
 		* [Actividades de enseñanza para adquirir/desarrollar el proceso](actividades_de_enseanza_para_adquirirdesarrollar_el_proceso3.md)
 		* [COMENTARIOS FINALES](comentarios_finales3.md)
 	* [BIBLIOGRAFÍA](bibliografa4.md)
-### Sept17_Neuro_1: Dificultades de aprendizaje
+
+
+### Dificultades de aprendizaje
 * [DIFICULTADES DE APRENDIZAJE MÁS COMUNES EN EL AULA](index5.md)
 	* [Objetivos del módulo](objetivos_del_mdulo6.md)
 	* [Ideas clave](ideas_clave7.md)
@@ -69,3 +73,6 @@ ____
 		* [Estrategias de intervención en el aula](estrategias_de_intervencin_en_el_aula3.md)
 		* [CONSIDERACIONES FINALES](consideraciones_finales.md)
 	* [BIBLIOGRAFÍA](bibliografa8.md)
+
+___
+* [Créditos](crditos-buenos.md)

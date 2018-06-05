@@ -2,8 +2,16 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "______________",
-        "author": "______________",
+        "title": "Neuropsicología y Dificultades de Aprendizaje",
+        "authors": [
+            "Gabriela Castillo Parra",
+            "Mª José de Dios Pérez",
+            "Mª Poveda Fernández Martín",
+            "Jara González Lamas",
+            "Laura Herrero Pérez",
+            "David Pascual Nicolás",
+            "Cecilia Inés Theirs Rodríguez"
+        ],
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
         ]
