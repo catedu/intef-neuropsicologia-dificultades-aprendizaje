@@ -1,10 +1,7 @@
 # Cómo se desarrolla en el niño
 
 
-![niño dibujando](img/child-865116__480.jpg)
-
-
-_Imagen tomada de Pixabay_
+![niño dibujando tomada de Pixabay](img/child-865116__480.jpg)
 
 El desarrollo del proceso atencional es especialmente relevante debido a su implicación en el desarrollo adecuado de otras funciones cognitivas. Su funcionamiento está implicado en procesos tan necesarios para el desarrollo integral del niño como son los procesos perceptivos, el funcionamiento ejecutivo, la memoria, la motivación, el lenguaje… de tal manera que un desarrollo inadecuado de la atención dará lugar a la posible aparición de dificultades de aprendizaje (Sirumal, 2016).
 

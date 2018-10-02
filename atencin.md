@@ -14,13 +14,12 @@ A lo largo de este apartado, partiremos de la conceptualización de la atención
   
 
 
-![interrogantes](img/question-mark-2110767__480.jpg)
+![interrogantes_Pixabay](img/question-mark-2110767__480.jpg)
 
 
-_Pixabay_
 
-##   
-Para reflexión:
+
+## Para reflexión:
 
 La atención es un proceso cognitivo que tenemos en constante funcionamiento. Para que lo puedas comprobar sigue las siguientes indicaciones:
 
@@ -35,12 +34,5 @@ Esta información que nos llega, pero a la que no atendemos, se considera que es
 
 **Ahora vamos a ver en qué consiste la atención**
 
-
-![caracol con gafas](img/snail-306355__340.png)
-
-
-_Pixabay_
-
-##   
-Para saber más  
+##   Para saber más  
 [Neuropsicología de la atención](https://www.youtube.com/watch?v=ZtKqYja6RYM)

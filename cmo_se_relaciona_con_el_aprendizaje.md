@@ -1,10 +1,7 @@
 # ¿Cómo se relaciona con el aprendizaje?
 
 
-![niño con lupa](img/boys-1825416_640.png)
-
-
-_Imagen tomada de Pixabay_
+![niño con lupatomada de Pixabay](img/boys-1825416_640.png)
 
 Tanto en la vida cotidiana como en el ámbito académico, cuando el aprendizaje se vuelve formal y comienza la adquisición de la lectura, la escritura y el conocimiento matemático, entre otros, es necesario atender, comparar, diferenciar y buscar semejanzas para lograr asociaciones e integrar las nuevas ideas con las ya existentes (Aronen et al., 2005; Bull y Scerif, 2001; Rosselli, Jurado, y Matute, 2008). Por lo tanto, el manejo adecuado de los recursos atencionales es una competencia que facilita el aprendizaje de la lectoescritura (Aronen et al., 2005; Chun & Turk-Browne, 2007; Rosselli et al., 2008; Roselli, Matute, & Ardila, 2010).
 
