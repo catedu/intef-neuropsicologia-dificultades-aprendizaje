@@ -1,5 +1,8 @@
 # Introducción
 
+[![Banner del curso del INTEF](img/Neuropsicologia_Tutorizado_Banner600x125.png)](http://formacion.educalab.es/course/view.php?id=470)
+
+
 En el informe de 2007 de la OCDE (en inglés) Understanding the Brain: The Bird of a Learning Science, se afirma que los avances en el campo de la neurociencia son relevantes para la educación. Específicamente es la Neuropsicología educativa la que está aportando nuevos conocimientos de los procesos de aprendizaje, tanto de sus bases neuropsicológicas como de los niveles de neurodesarrollo de cada etapa educativa para prevenir dificultades, desarrollar capacidades, inteligencias y talentos, así como para ofrecer una respuesta educativa, científica y profesional, que haga posible la aplicación de metodologías, programas y recursos acordes con la sociedad actual.
 Este curso está elaborado con la finalidad de proporcionar herramientas específicas para la actuación a nivel psicoeducativo en las principales dificultades de aprendizaje existentes en el contexto escolar, así como sobre los procesos perceptivos y cognitivos implicados en ellas.
 
@@ -15,4 +18,3 @@ La realización del plan de actividades del curso te ayudará a alcanzar el nive
 
 * B2 de la competencia 5.4, Identificación de lagunas en la competencia digital, ya que trabaja el siguiente descriptor: "Elaboro y desarrollo actividades de aula y/o de centro que mejoren la competencia digital de mi alumnado".
 
-[![Banner del curso del INTEF](img/Neuropsicologia_Tutorizado_Banner600x125.png)](http://formacion.educalab.es/course/view.php?id=470)

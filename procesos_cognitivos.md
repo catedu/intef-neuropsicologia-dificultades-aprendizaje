@@ -1,10 +1,9 @@
 # PROCESOS COGNITIVOS
 
 
-![cerebro con conexiones](img/brain-2029391_1280.png)
+![cerebro con conexiones _Imagen tomada de Pixabay](img/brain-2029391_1280.png)
 
 
-_Imagen tomada de Pixabay_
 
 A lo largo de este módulo analizaremos a qué llamamos atención, procesamiento de la información visual y funciones ejecutivas, así como el modo en el que podemos utilizar este conocimiento en el aula. Sin embargo, a pesar de que vayamos a estudiar estos procesos por separado, la realidad es que actúan de manera conjunta, permitiéndonos desarrollar nuestro conocimiento del mundo. Para ver el modo en el que interactúan entre sí, veamos un ejemplo:
 
@@ -24,16 +23,6 @@ Cuando el alumno presenta un déficit en alguno de estos procesos, su desarrollo
 
 A lo largo de este módulo analizaremos en qué consisten cada uno de estos tres procesos, así como la manera en la que se vinculan con el aprendizaje.  
   
-  
-  
-
-
-![caracol con gafas](img/snail-306355__340.png)
-
-
-_Pixabay_
-
-##   
-Para saber más  
+##   Para saber más  
   
 [Cómo se produce el desarrollo cognitivo en el bebé](https://www.youtube.com/watch?v=vRalfk5KFVw "Cómo se produce el desarrollo cognitivo en el bebé")
