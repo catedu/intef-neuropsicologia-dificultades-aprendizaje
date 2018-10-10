@@ -2,23 +2,15 @@
 
 El lenguaje es la capacidad de comunicar o transmitir información mediante signos arbitrarios, sonidos verbales o gestos manuales, que tienen una forma convencional y un significado, y se combinan siguiendo unas reglas determinadas (Mariscal, 2009). A lo largo de nuestro desarrollo iremos adquiriendo la capacidad de comunicarnos a través de la estructura que nos aporta el lenguaje, para lo que tendremos que adquirir la función fonético-fonológica, la sintáctico-morfológica, la léxico-semántica y la pragmática. A lo largo de este módulo, analizaremos el lenguaje en función de cuatro grandes niveles de estudio.
 
-
 ![niveles de estudio](img/Lenguaje-001.jpg)
-
 
 El conjunto de estos niveles, nos permite entender el funcionamiento del lenguaje como una función global e indispensable en la interacción con el mundo. Para comprender bien el modo en el que cada uno de estos niveles nos permitirá analizar el lenguaje, retomemos el ejemplo del módulo anterior:
 
-
-![pizarra teorema de Pitágoras](img/blackboard-1644744__480.png)
-
+![pizarra teorema de Pitágoras. Imagen tomada de Pixabay](img/blackboard-1644744__480.png)
 
 "Juana es una maestra de educación primaria que plantea a sus alumnos el siguiente problema: “En un concurso, Pedro ha obtenido 93 puntos y su pareja María, ha logrado 17 puntos menos que Pedro. ¿Cuántos puntos ha conseguido María? ¿Cuántos puntos han conseguido entre los dos?”
 
 Tal y como indicábamos en el primer módulo, el objetivo principal de plantear problemas matemáticos a nuestros alumnos, es que adquieran el manejo de los mecanismos que nos permiten enfrentarnos a tareas similares en nuestra vida cotidiana. Ya vimos que para llegar a resolver este problema, los niños tendrán que ser capaces de manejar su atención y sus funciones ejecutivas, así como haber adquirido un correcto procesamiento de la información visual. Sin embargo, para completar el análisis de los procesos que requeriría un niño para resolver este problema, debemos incluir el lenguaje.
-
-_  
-Imagen tomada de Pixabay_  
-  
   
 Analicemos por qué:
 
@@ -38,14 +30,8 @@ Tal y como podemos ver, para que un alumno sea capaz de resolver un simple probl
 A lo largo de este módulo analizaremos los distintos niveles del lenguaje en los que puede producirse alguna alteración que impida el desarrollo académico óptimo en el niño. Previo a este apartado, repasaremos las principales teorías explicativas acerca de la adquisición del lenguaje. 
 
 
-![caracol con gafas](img/snail-306355__340.png)
 
-
-_Pixabay  
-_
-
-##   
-Para saber más
+## Para saber más
 
 [Documental "El cerebro y yo - El lenguaje"](https://www.youtube.com/watch?v=n0brAVKHQa4)
 
