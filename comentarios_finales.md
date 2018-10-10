@@ -1,10 +1,7 @@
 # COMENTARIOS FINALES
 
 
-![isla y puesta de sol](img/sunset-485016__480.png)
-
-
-_Imagen tomada de Pixabay_
+![isla y puesta de sol. Imagen tomada de Pixabay](img/sunset-485016__480.png)
 
 En resumen, la relación que se estable entre los procesos cognitivos que acabamos de ver se explica de la siguiente manera:
 
