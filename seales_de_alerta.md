@@ -3,7 +3,7 @@
 Tal y como han señalado autores clásicos en el estudio de la atención como Orjales (1999), algunas de las señales de alerta más relevantes para considerar que puede existir un problema de atención en nuestros alumnos, son las siguientes:
 
 
-![exclamacionestomada de Pixabay](img/exclamation-point-1421014_640.png)
+![exclamaciones. Tomada de Pixabay](img/exclamation-point-1421014_640.png)
 
 *   Hacer las tareas de manera superficial, sin prestar atención suficiente a los detalles.
     

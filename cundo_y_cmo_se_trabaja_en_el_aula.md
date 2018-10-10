@@ -1,7 +1,7 @@
 # Cuándo y cómo se trabaja en el aula
 
 
-![castor leyendotomada de Pixabay](img/squirrel-304021__480.png)
+![castor leyendo. Tomada de Pixabay](img/squirrel-304021__480.png)
 
 Una vez establecidos los tipos de atención, debemos conocer con qué tipos de actividades podemos trabajar cada uno de ellos en el contexto de aula. Es más, teniendo en cuenta su desarrollo evolutivo, deberemos plantearnos las demandas atencionales que hagamos a nuestros alumnos, ya que, por ejemplo, no podemos esperar los mismos niveles de atención sostenida en todas las etapas educativas. 
 
