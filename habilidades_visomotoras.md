@@ -1,10 +1,7 @@
 # Habilidades visomotoras
 
 
-![niño dibujando](img/oekaki-2009817_640.jpg)
-
-
-_Imagen tomada de Pixabay_
+![niño dibujando. Tomada de Pixabay](img/oekaki-2009817_640.jpg)
 
 # ¿A qué llamamos habilidades visomotoras?
 
@@ -17,17 +14,11 @@ Esta habilidad nos permite realizar actividades en las que usamos simultáneamen
 
 # Relación con el aprendizaje
 
-
-![lapices de colores](img/crayons-1209804_640.jpg)
-
-
-_Imagen tomada de Pixabay_
+![lapices de colores. Imagen tomada de Pixabay](img/crayons-1209804_640.jpg)
 
 Las habilidades visomotrices cumplen una función crucial en la capacidad de representar con nuestras manos y nuestro cuerpo un concepto, ya sea escribiendo, dibujando, moldeando, cortando o representando una figura en el aire. Una adquisición deficitaria de estas habilidades, conllevará la aparición de dificultades en el aprendizaje, viéndose representadas principalmente en la escritura (Medrado, 2011; Roselli, Matute y Ardila, 2010). 
 
 Una integración visomotora pobre provocará enlentecimiento en la escritura y dificultades para escribir de manera adecuada y legible. Por tanto, tendrán que emplear muchos recursos en la producción escrita, teniendo dificultades en la automatización del proceso de escritura (Barnhardt et al., 2005).  
-
-  
   
 Según la American Optometric Association (2010), los objetivos a conseguir para obtener un funcionamiento adecuado de las habilidades visomotoras serán:
 

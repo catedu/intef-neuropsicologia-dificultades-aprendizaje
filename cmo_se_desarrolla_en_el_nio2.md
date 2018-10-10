@@ -1,17 +1,12 @@
 # Cómo se desarrolla en el niño
 
 
-![dibujo de un niño](img/girls-2091517__480.jpg)
+![dibujo de un niño. Imagen tomada de Pixabay](img/girls-2091517__480.jpg)
 
-
-_Imagen tomada de Pixabay_
-
-  
 El desarrollo de las habilidades visoespaciales, visoperceptivas y visomotoras en el niño es el resultado de la integración paulatina del manejo del espacio, de la forma y del control motor. Cuando todas estas habilidades se unifican y pueden trabajar juntas es cuando el niño es capaz de crear mapas mentales e integrar los elementos que percibe en un todo organizado, lo que le permite acercarse a comprender la realidad que le rodea (Roselli, 2015).
 
 Estas habilidades aparecen y se desarrollan en los primeros años de vida, siendo uno de los procesos que el niño va a ser capaz de manejar completamente más pronto en su período evolutivo. Tal y como veremos, durante el primer mes de vida se producirán grandes avances que permitirán que se desarrolle este proceso, terminando su desarrollo aproximadamente a los 12 años.
 
-  
   
 El desarrollo evolutivo de las habilidades visoespaciales, visoperceptivas y visomotoras:
 
@@ -42,8 +37,7 @@ El desarrollo evolutivo de las habilidades visoespaciales, visoperceptivas y vis
 *   A partir de los 8 meses desarrolla la prensión manual y es capaz de coger objetos pequeños. Para ello utiliza de manera controlada el pulgar y el índice.
     
 
-### **  
-Del año a los 2 años**
+### **Del año a los 2 años**
 
 *   Aproximadamente a los 18 meses se observa un uso preferente de una mano, aunque todavía no se ha producido la lateralización.
     
@@ -56,8 +50,7 @@ Del año a los 2 años**
 *   Durante este período mejora de la organización espacial y su precisión motora.
     
 
-### **  
-De los 3 años a los 6 años**
+### **De los 3 años a los 6 años**
 
 *   Entre los 2 y los 3 años puede haber un período de inestabilidad respecto a la lateralidad, pudiendo aparecer un predominio bilateral.
     
@@ -76,8 +69,7 @@ De los 3 años a los 6 años**
 *   Entre los 4 y los 6 años mejora en la percepción de la figura y el fondo.
     
 
-### **  
-De los 7 años a los 11 años**
+### **De los 7 años a los 11 años**
 
 *   A los 8 años queda consolidada la lateralidad.
     

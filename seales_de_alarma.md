@@ -3,10 +3,7 @@
 Las señales de alarma ante una posible presencia de dificultades en las habilidades visoespaciales, visoperceptivas y/o visomotoras según la American Optometrist Association (2010) son:
 
 
-![exclamaciones](img/exclamation-point-1421014_640.png)
-
-
-_Imagen tomada de Pixabay_
+![exclamaciones. Imagen tomada de Pixabay](img/exclamation-point-1421014_640.png)
 
 ## **Habilidades visoespaciales**
 
@@ -25,9 +22,7 @@ _Imagen tomada de Pixabay_
 *   Dificultad en las tareas que requieran pasar de la línea media 
     
 
-## **  
-  
-Habilidades visoperceptivas**
+## **Habilidades visoperceptivas**
 
 *   Retraso en el aprendizaje del alfabeto 
     
@@ -50,8 +45,7 @@ Habilidades visoperceptivas**
 *   Dificultad en recordar la secuencia de presentación de estímulos visuales 
     
 
-## **  
-Habilidades visomotoras**
+## **Habilidades visomotoras**
 
 *   Dificultad a la hora de copiar cosas de la pizarra
     

@@ -1,17 +1,14 @@
 # Cómo se desarrolla en el niño
 
 
-![construcciones](img/duplo-1981724_1920.jpg)
+![construcciones. Imagen tomada de Pixabay](img/duplo-1981724_1920.jpg)
 
-
-_Imagen tomada de Pixabay_
 
 Tal y como hemos visto, las funciones ejecutivas constituyen un grupo de habilidades cognitivas que nos permiten adaptarnos a situaciones novedosas y complejas, permitiéndonos crear conductas no habituales en nuestro repertorio (Roselli, Matute y Jurado, 2008). Esta adquisición de una conducta más adaptada a las necesidades del medio, se irá mostrando a lo largo del desarrollo del niño, de manera que durante el crecimiento observaremos una mayor capacidad de controlar por sí mismos sus pensamientos, acciones y regulación de su propia conducta. Esta maduración en su forma de actuar y pensar se deberá en gran medida al mejor manejo de sus funciones ejecutivas (Bausela, 2014). 
 
 Como veremos a continuación, el desarrollo de las funciones ejecutivas se producirá lentamente a lo largo del desarrollo del niño, llegando a obtener una maduración completa al final de la adolescencia y/o al inicio de la edad adulta. El modo en el que se desarrollarán será jerárquico y discontinuo, de manera que aspectos como la memoria operativa o el control atencional se desarrollarán en los primeros años de vida, mientras que funciones como la flexibilidad cognitiva o la capacidad de planificación empezarán a desarrollarse más tarde y terminarán de hacerlo en la adolescencia o, incluso, en las primeras etapas de la vida adulta.
 
-####   
-Primer año de vida
+####   Primer año de vida
 
 *   A los 4 meses de vida el niño tiene consciencia de la permanencia del objeto.
     
