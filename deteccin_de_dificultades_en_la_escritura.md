@@ -1,7 +1,7 @@
 # Detección de dificultades en la escritura
 
 
-![niños escribiendo](img/Ninas_escribiendo.jpg)
+![niños escribiendo. Imagen tomada de Pixabay](img/Ninas_escribiendo.jpg)
 
 
 En este epígrafe, las dificultades en la escritura se han dividido en dos apartados. Por un lado, las dificultades asociadas a los aspectos externos de la escritura (grafía y utilización del espacio), y por otro, a la dificultad para redactar un texto (composición del texto), es decir, a los aspectos más internos.
@@ -9,9 +9,6 @@ En este epígrafe, las dificultades en la escritura se han dividido en dos apart
 #### **Dificultades en los aspectos externos de la escritura**
 
 Estas dificultades se centran, por un lado, en los aspectos grafomotrices, (Vallés, 1999), vinculados al desarrollo de las habilidades visoespaciales, visomotoras y visoperceptivas que estudiamos en el primer módulo.
-
-_  
-Imagen tomada de Pixabay_
 
 El alumno que presenta disgrafía no respeta aspectos como:
 

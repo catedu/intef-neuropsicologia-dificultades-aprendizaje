@@ -62,6 +62,7 @@
 * [Objetivos del módulo](objetivos_del_mdulo6.md)
 * [Ideas clave](ideas_clave7.md)
 * [LAS DIFICULTADES DE APRENDIZAJE](las_dificultades_de_aprendizaje.md)
+  * [EL PAPEL DE LA NEUROPSICOLOGÍA EN EL ÁMBITO EDUCATIVO](el-papel-de-la-neuropsicologia-en-el-ambito-educativo.md)
   * [DIFICULTADES EN LA EXPRESIÓN ESCRITA](dificultades_en_la_expresin_escrita.md)
     * [Detección de dificultades en la escritura](deteccin_de_dificultades_en_la_escritura.md)
     * [Estrategias de intervención en el aula](estrategias_de_intervencin_en_el_aula.md)

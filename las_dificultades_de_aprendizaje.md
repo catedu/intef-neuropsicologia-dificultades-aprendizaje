@@ -1,13 +1,9 @@
 # LAS DIFICULTADES DE APRENDIZAJE
 
 
-![material escolar](img/school-909381__480.jpg)
-
+![material escolar. Imagen tomada de Pixabay](img/school-909381__480.jpg)
 
 Las dificultades de aprendizaje, también llamadas trastornos de aprendizaje o trastorno específico del aprendizaje (denominación utilizada en el DSM 5) incluyen un conjunto de problemas muy comunes en la infancia, que aparecen a lo largo de la vida escolar. Se calcula que entre un 5 y un 15% de los niños en edad escolar desarrollan alguna dificultad de aprendizaje.
-
-  
-_Imagen tomada de Pixabay_  
   
 Las dificultades de aprendizaje incluyen problemas muy variados entre los que podemos destacar:
 
