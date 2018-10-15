@@ -1,22 +1,17 @@
 # Cuál es el desarrollo normal de estos procesos
 
 
-![niños sonrientes](img/child-1099756_640.jpg)
-
-
-_Imagen tomada de Pixabay_
+![niños sonrientes. Imagen tomada de Pixabay](img/child-1099756_640.jpg)
 
 El lenguaje requiere de un procesamiento cognitivo complejo que va a necesitas contar con la presencia de otras habilidades cognitivas tales como el procesamiento de la información auditiva, la memoria o la atención, entre otras.
 
 Para comprender su desarrollo a nivel sintáctico-semántico, será conveniente conocer también cómo se desarrolla en el niño la morfología del lenguaje. A continuación, analizamos de manera separada cómo se desarrolla en el niño el lenguaje en estos 3 niveles: Semántico, Morfológico, Sintáctico.
 
-##   
-Desarrollo semántico
+## Desarrollo semántico
 
 En cuanto al desarrollo semántico (del léxico) distinguimos los periodos entre 0 a 10 palabras; entre 10 y 50 palabras; a partir de 50 palabras; a partir de los 2 años; a partir de los 5 años.
 
-**_De 0 a 10 palabras:  
-_**
+**_De 0 a 10 palabras:_**
 
 *   Éstas aparecen en contextos determinados y rutinarios. Los niños no son capaces de generalizar el uso de las palabras a otros referentes “iguales”.  
       
@@ -40,7 +35,7 @@ _**
           
         
 
-**A partir de los ****_dos años_** hay un avance vertiginoso relacionado con la categorización y conceptualización de la realidad.  Los niños van conformando campos semánticos más complejos, como es el caso de los adjetivos dimensionales (grande/pequeño; más adelante, largo/corto,…), la longitud de las oraciones y modo de combinar palabras y frases para formar oraciones (sintaxis). Varias características definen esta evolución (Berger y Thompson, 2007):
+**A partir de los _dos años_** hay un avance vertiginoso relacionado con la categorización y conceptualización de la realidad.  Los niños van conformando campos semánticos más complejos, como es el caso de los adjetivos dimensionales (grande/pequeño; más adelante, largo/corto,…), la longitud de las oraciones y modo de combinar palabras y frases para formar oraciones (sintaxis). Varias características definen esta evolución (Berger y Thompson, 2007):
 
 *   _Adquisición rápida de palabras mediante mapas conceptuales:_ en esta edad se entienden unas 14.000 palabras, esto es, cada día se adquieren unas 9 palabras. Esta velocidad de adquisición se debe a la elaboración de mapas conceptuales que permiten aportar significado a una nueva palabra después de solamente haberla oído una o dos veces.
 *   _Diferenciación de vocabulario oído y vocabulario hablado:_ el léxico potencial de comprensión es más amplio que el vocabulario hablado. Además, la capacidad de comprensión depende de los propios intereses infantiles.
@@ -57,8 +52,7 @@ A lo largo de este período, los niños adquieren los denominados _géneros dis
 
 Antes de ver cómo se desarrolla el proceso sintáctico, es conveniente abordar el desarrollo morfológico. Las **_etapas en la adquisición de los primeros morfemas_**, según Palacios, Marchesi y Coll (2004) es la siguiente:
 
-**18-24 meses  
-**
+**18-24 meses**
 
 *   Formas no diferenciadas de los primeros artículos.
 *   Primeras formas del plural usadas no sistemáticamente.
@@ -69,8 +63,7 @@ Antes de ver cómo se desarrolla el proceso sintáctico, es conveniente abordar 
       
     
 
-**24-36 meses  
-**
+**24-36 meses**
 
 *   Uso sistemático de los plurales en nombres, adjetivos, determinantes.
 *   Variación adecuada en los determinantes.
@@ -86,16 +79,14 @@ Antes de ver cómo se desarrolla el proceso sintáctico, es conveniente abordar 
       
     
 
-**De 36 a 48 meses  
-**
+**De 36 a 48 meses**
 
 *   Uso sistemático de los tiempos, persona y modo verbales.
 *   Uso de los aumentativos y diminutivos.
 *   Uso frecuente de adverbios, pronombres, preposiciones.
 *   Errores de sobrerregularización que desaparecerán a los 6 años.
 
-##   
-Desarrollo sintáctico
+## Desarrollo sintáctico
 
 De manera detallada, en el **_desarrollo sintáctico_** podemos distinguir las siguientes etapas:
 
@@ -141,6 +132,39 @@ De manera detallada, en el **_desarrollo sintáctico_** podemos distinguir las
 _  
   
 Tabla. Desarrollo sintáctico en la adquisición del lenguaje. Tomado de Tomado de García-Sánchez, J. N. (Coord.) (2007)_
+
+<tbody>
+<tr>
+<td width="81" valign="top">
+<p align="center" class="TextonormalTB2009ParaTablas"><strong><em>Años</em></strong></p>
+</td>
+<td width="469" valign="top">
+<p align="center" class="TextonormalTB2009ParaTablas"><strong><em>Características</em></strong></p>
+</td>
+</tr>
+<tr>
+<td width="81" valign="top">
+<p align="left" class="TextonormalTB2009ParaTablas"><strong>4-7 años</strong></p>
+</td>
+<td width="469" valign="top">
+<p class="TextonormalTB2009ParaTablas">Dominio de las flexiones de género y número (a los 5 años, el género en nombres y pronombres, y a los 7 años, el número). Mejora de los tiempos verbales pero todavía confunden subjuntivo y condicional. Aparece la sintaxis compleja aunque no siempre los verbos están bien ajustados. Uso correcto de preposiciones y conjunciones, artículos definidos e indefinidos y adjetivos y pronombres deícticos.</p>
+</td>
+</tr>
+<tr>
+<td width="81" valign="top">
+<p align="left" class="TextonormalTB2009ParaTablas"><strong>7-11 años</strong></p>
+</td>
+<td width="469" valign="top">
+<p>Dominio completo de la sintaxis compleja. Manejan la concordancia de artículos y pronombres cuando la referencia es anafórica. Se matiza la diferencia entre tiempos verbales y comprenden y distinguen el condicional y el subjuntivo. Producen bien los verbos deícticos. Comprensión de oraciones pasivas irreversibles (ej. “El jarrón es roto por la piedra”) y posteriormente reversibles (ej. “El chico se deja lavar por la chica”). Comprensión de oraciones que vulneran el orden estándar y otras oraciones complejas. Elaboración básica del discurso conectado. Géneros discursivos (organizando el habla según un esquema determinado): conversar, relatar, explicar…</p>
+</td>
+</tr>
+<tr>
+<td width="550" valign="top" colspan="2">
+<p align="right" class="Pie2009Cuerpo">Tomado de García-Sánchez, J. N. (Coord.) (2007):&nbsp;<br>«Evaluación e intervención en los trastornos del lenguaje expresivo»,&nbsp;<br>en&nbsp;<i>Dificultades del desarrollo. Evaluación e intervención</i>. Madrid: Pirámide.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
 
 **_Años_**
 

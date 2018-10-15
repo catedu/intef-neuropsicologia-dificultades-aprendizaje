@@ -1,20 +1,15 @@
 # PROCESOS SINTÁCTICO Y SEMÁNTICO
 
 
-![libro abierto con secuencia tridimensional](img/narrative-794978__480.jpg)
-
+![libro abierto con secuencia tridimensional. Imagen tomada de Pixabay](img/narrative-794978__480.jpg)
 
 **Comprender** es algo más que reconocer cada una de las palabras. Las palabras aisladas no transmiten ninguna información nueva sino que es en la relación entre ellas donde se encuentra el mensaje, es decir, en las frases. Para descubrir esa relación son necesarias otras operaciones de orden superior entre las que se encuentran los procesos que estudiamos en el primer módulo, es decir,  la atención, el procesamiento de la información visual en el caso de los grafemas o las funciones ejecutivas.
-
   
-_Imagen tomada de Pixabay  
-  
-_Por tanto, mientras que las operaciones de percepción de los sonidos (o de los grafemas) y reconocimiento de palabras terminan por automatizarse debido a que requieren un procesamiento más simple de la información, la comprensión requiere de muchos recursos cognitivos. De esta manera, en el caso de la lectura, muchos niños que son capaces de reconocer perfectamente las palabras no son capaces de entender un texto.
+Por tanto, mientras que las operaciones de percepción de los sonidos (o de los grafemas) y reconocimiento de palabras terminan por automatizarse debido a que requieren un procesamiento más simple de la información, la comprensión requiere de muchos recursos cognitivos. De esta manera, en el caso de la lectura, muchos niños que son capaces de reconocer perfectamente las palabras no son capaces de entender un texto.
 
 Estos problemas de comprensión se pueden deber a que no han adquirido adecuadamente algunos procesos básicos. Para Valles (1999), los procesos cognitivos involucrados en la comprensión lectora incluyen el reconocimiento de las palabras y su asociación con conceptos almacenados en la memoria, el desarrollo de ideas significativas, la extracción de conclusiones y la relación entre lo que se lee y lo que ya se sabe, todo ello realizado de manera conjunta. Por tanto, los procesos implicados son: atención selectiva; análisis secuencial (en términos de lectura continuada: palabras, frases, fragmentos, etc.); síntesis (releer para comprender el significado); discriminación perceptiva (visual, táctil y auditivo-fonética) y memoria (a largo y a corto plazo, para evocar y reconstruir información con los conocimientos previos almacenados).
 
-###   
-Procesos sintácticos y semánticos
+### Procesos sintácticos y semánticos
 
 Nos vamos a centrar ahora en los procesos sintácticos -destinados a analizar las estructuras de las oraciones y el papel que cada una de las palabras juega en la oración- y en los procesos semánticos o de extracción del significado y posterior integración en la memoria.
 
@@ -34,13 +29,13 @@ En el procesamiento sintáctico no se tiene en cuenta el significado de la oraci
 Por ejemplo, estas dos frases son sintácticamente equivalentes pero semánticamente (significado) diferentes:
 
   
-Claudia llama a María          -          María llama a Claudia
+    Claudia llama a María          -          María llama a Claudia
 
   
 Y estas dos son semánticamente equivalentes pero sintácticamente diferentes:  
   
 
-María llama a Claudia          -          Claudia es llamada por María
+    María llama a Claudia          -          Claudia es llamada por María
 
   
 Por lo tanto, el “**_analizador sintáctico_**” tiene la tarea de descubrir la relación entre los constituyentes sirviéndose de:
