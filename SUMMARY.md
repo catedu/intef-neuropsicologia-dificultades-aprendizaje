@@ -59,23 +59,23 @@
 ## Dificultades de aprendizaje
 
 * [DIFICULTADES DE APRENDIZAJE MÁS COMUNES EN EL AULA](index5.md)
-  * [Objetivos del módulo](objetivos_del_mdulo6.md)
-  * [Ideas clave](ideas_clave7.md)
-  * [LAS DIFICULTADES DE APRENDIZAJE](las_dificultades_de_aprendizaje.md)
-    * [DIFICULTADES EN LA EXPRESIÓN ESCRITA](dificultades_en_la_expresin_escrita.md)
+* [Objetivos del módulo](objetivos_del_mdulo6.md)
+* [Ideas clave](ideas_clave7.md)
+* [LAS DIFICULTADES DE APRENDIZAJE](las_dificultades_de_aprendizaje.md)
+  * [DIFICULTADES EN LA EXPRESIÓN ESCRITA](dificultades_en_la_expresin_escrita.md)
     * [Detección de dificultades en la escritura](deteccin_de_dificultades_en_la_escritura.md)
     * [Estrategias de intervención en el aula](estrategias_de_intervencin_en_el_aula.md)
-    * [DIFICULTADES EN LA LECTO-ESCRITRURA: LA DISLEXIA](dificultades_en_la_lectoescritrura_la_dislexia.md)
+  * [DIFICULTADES EN LA LECTO-ESCRITRURA: LA DISLEXIA](dificultades_en_la_lectoescritrura_la_dislexia.md)
     * [Origen de la dislexia](origen_de_la_dislexia.md)
     * [Tipos de dislexia](tipos_de_dislexia.md)
     * [Detección de dificultades en la dislexia](deteccin_de_dificultades_en_la_dislexia.md)
     * [Estrategias de intervención en el aula](estrategias_de_intervencin_en_el_aula2.md)
-    * [DIFICULTADES EN LA COMPETENCIA MATEMÁTICA. LA DISCALCULIA](dificultades_en_la_competencia_matemtica_la_discalculia.md)
+  * [DIFICULTADES EN LA COMPETENCIA MATEMÁTICA. LA DISCALCULIA](dificultades_en_la_competencia_matemtica_la_discalculia.md)
     * [Discalculia](discalculia.md)
     * [Detección de dificultades en la competencia matemática](deteccin_de_dificultades_en_la_competencia_matemtica.md)
     * [Estrategias de intervención en el aula](estrategias_de_intervencin_en_el_aula3.md)
-    * [CONSIDERACIONES FINALES](consideraciones_finales.md)
-  * [BIBLIOGRAFÍA](bibliografa8.md)
+* [CONSIDERACIONES FINALES](consideraciones_finales.md)
+* [BIBLIOGRAFÍA](bibliografa8.md)
 
 ---
 
