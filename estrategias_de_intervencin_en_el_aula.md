@@ -44,6 +44,7 @@ Dentro de los programas existentes en la intervención en dificultades de escrit
 
 Este programa consta de 10 sesiones que trabajan el análisis metacognitivo desde una perspectiva declarativa (_qué es_), procedimental (_cómo hacerlo)_ y condicional (_cuándo hacerlo_), para posteriormente incorporar la autorregulación de la composición escrita, A continuación, se muestra un ejemplo de cómo llevar a cabo este programa en su fase previa y su fase de reflexión.
 
+<table style="width: 1016px; height: 847px; background-color: #e9eaeb; border: 0px solid #000000;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
 <td style="background-color: #c4c7c9; width: 604px; border: 1px solid #000000;" colspan="4">
@@ -216,6 +217,7 @@ Este programa consta de 10 sesiones que trabajan el análisis metacognitivo desd
 </td>
 </tr>
 </tbody>
+</table>
 
 **FASE PREVIA**
 
