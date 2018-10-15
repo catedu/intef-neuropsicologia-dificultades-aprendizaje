@@ -90,11 +90,13 @@ Antes de ver cómo se desarrolla el proceso sintáctico, es conveniente abordar 
 
 De manera detallada, en el **_desarrollo sintáctico_** podemos distinguir las siguientes etapas:
 
+---
+
 **12 meses:**
 
 *   Las primeras producciones no revelan conocimiento gramatical (1 palabra o frases hechas)  
       
-    
+---    
 
 **18 meses:**
 
@@ -102,7 +104,7 @@ De manera detallada, en el **_desarrollo sintáctico_** podemos distinguir las
 *   Comienzan a formar la categoría nominal: VOCAL (que hace la función de artículo) + NOMBRE.
 *   Al final, uso correcto de artículos esporádicamente.  
       
-    
+---    
 
 **2 a 2 y1/2 años:**
 
@@ -111,7 +113,7 @@ De manera detallada, en el **_desarrollo sintáctico_** podemos distinguir las
 *   Categoría nominal: DETERMINANTES (artículos, posesivos, demostrativos…) + NOMBRE.
 *   Oraciones negativas e interrogativas simples.  
       
-    
+---    
 
 **2 y1/2 a 3 años.**
 
@@ -121,7 +123,7 @@ De manera detallada, en el **_desarrollo sintáctico_** podemos distinguir las
 *   Oraciones interrogativas con pronombre (¿qué es eso? ¿de quién es…?).
 *   Primeras oraciones coordinadas (y, o, ni, pero, luego, sino...) y subordinadas (que).  
       
-    
+---    
 
 **3 a 4 y1/2 años.**
 
@@ -129,54 +131,19 @@ De manera detallada, en el **_desarrollo sintáctico_** podemos distinguir las
 *   Uso de todas las oraciones subordinadas (porque, aunque, para, mientras, si).
 *   Control de la corrección gramatical.
 
-_  
-  
-Tabla. Desarrollo sintáctico en la adquisición del lenguaje. Tomado de Tomado de García-Sánchez, J. N. (Coord.) (2007)_
-
-<tbody>
-<tr>
-<td width="81" valign="top">
-<p align="center" class="TextonormalTB2009ParaTablas"><strong><em>Años</em></strong></p>
-</td>
-<td width="469" valign="top">
-<p align="center" class="TextonormalTB2009ParaTablas"><strong><em>Características</em></strong></p>
-</td>
-</tr>
-<tr>
-<td width="81" valign="top">
-<p align="left" class="TextonormalTB2009ParaTablas"><strong>4-7 años</strong></p>
-</td>
-<td width="469" valign="top">
-<p class="TextonormalTB2009ParaTablas">Dominio de las flexiones de género y número (a los 5 años, el género en nombres y pronombres, y a los 7 años, el número). Mejora de los tiempos verbales pero todavía confunden subjuntivo y condicional. Aparece la sintaxis compleja aunque no siempre los verbos están bien ajustados. Uso correcto de preposiciones y conjunciones, artículos definidos e indefinidos y adjetivos y pronombres deícticos.</p>
-</td>
-</tr>
-<tr>
-<td width="81" valign="top">
-<p align="left" class="TextonormalTB2009ParaTablas"><strong>7-11 años</strong></p>
-</td>
-<td width="469" valign="top">
-<p>Dominio completo de la sintaxis compleja. Manejan la concordancia de artículos y pronombres cuando la referencia es anafórica. Se matiza la diferencia entre tiempos verbales y comprenden y distinguen el condicional y el subjuntivo. Producen bien los verbos deícticos. Comprensión de oraciones pasivas irreversibles (ej. “El jarrón es roto por la piedra”) y posteriormente reversibles (ej. “El chico se deja lavar por la chica”). Comprensión de oraciones que vulneran el orden estándar y otras oraciones complejas. Elaboración básica del discurso conectado. Géneros discursivos (organizando el habla según un esquema determinado): conversar, relatar, explicar…</p>
-</td>
-</tr>
-<tr>
-<td width="550" valign="top" colspan="2">
-<p align="right" class="Pie2009Cuerpo">Tomado de García-Sánchez, J. N. (Coord.) (2007):&nbsp;<br>«Evaluación e intervención en los trastornos del lenguaje expresivo»,&nbsp;<br>en&nbsp;<i>Dificultades del desarrollo. Evaluación e intervención</i>. Madrid: Pirámide.</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-
-**_Años_**
-
-**_Características_**
+---
 
 **4-7 años**
 
 Dominio de las flexiones de género y número (a los 5 años, el género en nombres y pronombres, y a los 7 años, el número). Mejora de los tiempos verbales pero todavía confunden subjuntivo y condicional. Aparece la sintaxis compleja aunque no siempre los verbos están bien ajustados. Uso correcto de preposiciones y conjunciones, artículos definidos e indefinidos y adjetivos y pronombres deícticos.
 
+---
+
 **7-11 años**
 
 Dominio completo de la sintaxis compleja. Manejan la concordancia de artículos y pronombres cuando la referencia es anafórica. Se matiza la diferencia entre tiempos verbales y comprenden y distinguen el condicional y el subjuntivo. Producen bien los verbos deícticos. Comprensión de oraciones pasivas irreversibles (ej. “El jarrón es roto por la piedra”) y posteriormente reversibles (ej. “El chico se deja lavar por la chica”). Comprensión de oraciones que vulneran el orden estándar y otras oraciones complejas. Elaboración básica del discurso conectado. Géneros discursivos (organizando el habla según un esquema determinado): conversar, relatar, explicar…
+
+---
 
 Tomado de García-Sánchez, J. N. (Coord.) (2007):   
 «Evaluación e intervención en los trastornos del lenguaje expresivo»,   

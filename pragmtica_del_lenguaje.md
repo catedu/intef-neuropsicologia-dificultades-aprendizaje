@@ -1,7 +1,7 @@
 # PRAGMÁTICA DEL LENGUAJE
 
 
-![niños en una valla](img/children-958474_1280.jpg)
+![niños en una valla. Imagen tomada de Pixabay](img/children-958474_1280.jpg)
 
 
 La pragmática del lenguaje considera los aspectos de contextualización y funcionalidad lingüística que no son abordados en los modelos sintácticos y semánticos.

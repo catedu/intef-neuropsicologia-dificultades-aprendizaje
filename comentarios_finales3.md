@@ -1,10 +1,8 @@
 # COMENTARIOS FINALES
 
 
-![bocadillos de cómic](img/balloons-1187260__480.png)
+![bocadillos de cómic. Imagen tomada de Pixabay](img/balloons-1187260__480.png)
 
-
-_Imagen tomada de Pixabay_
 
 Como hemos visto hasta ahora, comprender el lenguaje implica una serie de procesos mentales cuya identificación y descripción resultan muy complejos. Si concretamos y hacemos referencia al lenguaje escrito, en términos de lectura, de escritura, y cálculo, se complica aún más, ya que no se hace referencia sólo a procesos de adquisición sino a procesos de comprensión, elaboración o procesamiento, es decir, a enfoques tanto conductuales como cognitivos. El lenguaje así descrito constituye un vehículo de transmisión y de adquisición de conocimientos y experiencias, que nos permite relacionarnos con el mundo exterior, académica, personal y socialmente.
 
@@ -13,14 +11,7 @@ Puede ocurrir, como hemos analizado anteriormente, que nuestros alumnos presente
 
 En el siguiente bloque analizaremos cada una de estas dificultades de aprendizaje así como su evolución.
 
-
-![interrogantes](img/question-mark-2110767__480.jpg)
-
-
-_Imagen tomada de Pixabay_
-
-##   
-Para reflexión:
+## Para reflexión:
 
 ¿Recuerdas la actividad de reflexión que planteamos al inicio de los procesos?
 

@@ -51,6 +51,7 @@
     * [Cuál es el desarrollo normal de estos procesos](cul_es_el_desarrollo_normal_de_estos_procesos3.md)
     * [Pautas para discriminar la alteración del proceso](pautas_para_discriminar_la_alteracin_del_proceso3.md)
     * [Actividades de enseñanza para adquirir/desarrollar el proceso](actividades_de_enseanza_para_adquirirdesarrollar_el_proceso3.md)
+  * [DESARROLLO DEL LENGUAJE MATEMÁTICO](desarrollo-del-lenguaje-matematico.md)
 * [COMPETENCIA LINGÜÍSTICA](competencia-linguistica.md)
 * [COMENTARIOS FINALES](comentarios_finales3.md)
 * [BIBLIOGRAFÍA](bibliografa4.md)

@@ -1,14 +1,9 @@
 # Actividades de enseñanza para adquirir/desarrollar el proceso
 
 
-![niños riendo](img/climate-1283786__480.jpg)
+![niños riendo. Imagen tomada de Pixabay](img/climate-1283786__480.jpg)
 
-
-_Imagen tomada de Pixabay  
-_
-
-**  
-1\. Al trabajar la pragmática del lenguaje se pueden** **trabajar diferentes aspectos**:
+**  1\. Al trabajar la pragmática del lenguaje se pueden** **trabajar diferentes aspectos**:
 
 *   Usar convenientemente el lenguaje en todos los ámbitos de comunicación.
     
@@ -19,8 +14,7 @@ _
 *   Comprender diferentes formas de representación del lenguaje (oral, escrito, matemático)
     
 
-**  
-2\. Para ello se pueden llevar a cabo actividades como:**
+**  2\. Para ello se pueden llevar a cabo actividades como:**
 
 *   _Darle palabras sueltas_. El niño construirá con ellas frases: casa, mesa, ropa, puerta, libro, lápiz, jabón, cuchillo, agua, vaso, flor, tenedor
     

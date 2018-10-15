@@ -1,12 +1,12 @@
 # Actividades de enseñanza para adquirir/desarrollar el proceso
 
 
-![letras juego Scrabble](img/game-2299097__340.jpg)
+![letras juego Scrabble. Imagen tomada de Pixabay](img/game-2299097__340.jpg)
 
 
 A continuación se describen algunas tareas para trabajar los procesos sintácticos y semánticos descritos anteriormente (De la Peña, 2012; Sarto, 1998).
 
-#### **_Proceso lexical. Ruta fonológica_**:
+**_Proceso lexical. Ruta fonológica_**:
 
 *   Sílabas parecidas dentro de las palabras
     
@@ -15,12 +15,9 @@ A continuación se describen algunas tareas para trabajar los procesos sintácti
 *   Trabajar los verbos irregulares en frases con palabras frecuentes
     
 *   Trabajar frases con palabras infrecuentes o pseudopalabras
-    
-
-_Imagen tomada de Pixabay_**_  
   
   
-Proceso lexical. Ruta léxica:_**
+** _Proceso lexical. Ruta léxica:_**
 
 *   Formar palabras a partir de vocales y consonantes dadas
     
@@ -37,8 +34,7 @@ Proceso lexical. Ruta léxica:_**
 *   Sinónimos y antónimos
     
 
-#### **_  
-Sintaxis:_**
+**_  Sintaxis:_**
 
 *   Ordenar los componentes de una frase
     
@@ -71,8 +67,7 @@ Sintaxis:_**
 *   Completar frases
     
 
-**_  
-Expresión oral: fluidez y denominación_**
+**_  Expresión oral: fluidez y denominación_**
 
 *   Contar un cuento/historia
     
@@ -85,8 +80,7 @@ Expresión oral: fluidez y denominación_**
 *   Inventar historias a partir de viñetas o dibujos
     
 
-#### **_  
-Habilidades metalingüística_****s:**
+**_  Habilidades metalingüísticas:_**
 
 El alumno ha de tomar conciencia de su propio lenguaje y el juicio que tiene acerca de las tareas y de las estrategias lingüísticas que puede utilizar. Por ejemplo:
 
@@ -96,9 +90,6 @@ El alumno ha de tomar conciencia de su propio lenguaje y el juicio que tiene ace
     
 *   Realizar juicios acerca de su comprensión oral
     
-
-
-# ![bombilla](img/lightbulb-31254__480.png)
 
 
 # ¡Recuerda!

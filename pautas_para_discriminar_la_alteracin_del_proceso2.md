@@ -1,7 +1,7 @@
 # Pautas para discriminar la alteración del proceso
 
 
-![exclamaciones](img/exclamation-point-1421014_640.png)
+![exclamaciones. Imagen tomada de Pixabay](img/exclamation-point-1421014_640.png)
 
 
 Las alteraciones en los procesos sintácticos y semánticos son uno de los orígenes de las dificultades de aprendizaje. Algunas de estas señales, en cualquiera de las etapas educativas, pueden incluir:
@@ -21,11 +21,6 @@ Las alteraciones en los procesos sintácticos y semánticos son uno de los oríg
 *   Dificultad para leer  palabras desconocidas o pseudopalabras
     
 *   Construcción de frases excesivamente cortas
-    
-
-  
-Imagen tomada de Pixabay  
-  
 
 *   Dificultad en la lectura y escritura de los signos de puntuación, Por ejemplo, leer un cuento con sus pausas, o escribir una redacción con sus signos de puntuación
     
