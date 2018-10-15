@@ -1,9 +1,5 @@
 # DIFICULTADES EN LA COMPETENCIA MATEMÁTICA. LA DISCALCULIA
 
-
-**![interrogantes](img/question-mark-2110767__480.jpg)**
-
-
 ## **Para reflexión**
 
 Piensa en la siguiente tarea: tus alumnos tienen que resolver un problema matemático
@@ -14,16 +10,12 @@ Si los escribes, te resultará más sencillo identificarlos
 
 **Ahora vamos a trabajar cada uno de esos conocimientos**
 
-## **  
-Aproximación conceptual a la competencia matemática**
+## **Aproximación conceptual a la competencia matemática**
 
 
-![cerebro y ecuaciones matemáticas](img/skull-and-crossbones-1739995__480.jpg)
+![cerebro y ecuaciones matemáticas. Imagen tomada de Pixabay](img/skull-and-crossbones-1739995__480.jpg)
 
 
-_Imagen tomada de Pixabay_
-
-  
 La competencia matemática es una habilidad crucial que implica la capacidad de plantear, formular, resolver, e interpretar problemas empleando las matemáticas dentro de una variedad de situaciones y contextos. Estos contextos van desde los puramente matemáticos a aquellos que no presentan ninguna estructura matemática aparente (en este caso la persona debe introducir ella misma la estructura matemática). También es importante enfatizar que la definición no se refiere solamente a un nivel mínimo básico de conocimiento de las matemáticas. Al contrario, la definición atañe a la capacidad de utilizar las matemáticas en situaciones que van de lo cotidiano a lo inusual y de lo simple a lo complejo.
 
 Dentro de las competencias matemáticas que los niños van aprendiendo a lo largo de su escolaridad se encuentran varios tipos (Provenza y Leyva, 2006):  
@@ -102,9 +94,9 @@ Dentro de las competencias matemáticas que los niños van aprendiendo a lo larg
 
 Respecto a las dificultades en la competencia matemática que aparecen a lo largo de la escolaridad, ocurre lo mismo que con el constructo de las dificultades de aprendizaje; no existe un consenso.  De este modo, y en función de la bibliografía consultada, nos podemos encontrar acepciones como acalculia, discalculia, dificultades de aprendizaje en las matemáticas o trastornos del cálculo. Vamos a realizar un breve repaso de cada una de ellas.
 
-El término _acalculia__,_ introducido por Henschen en los años veinte, aludía a que la dificultad para el cálculo se encontraba en una serie de alteraciones neurológicas en las que estaba comprometida la capacidad para realizar cálculos mentales, sin necesidad de que la habilidad o la capacidad de razonamiento se hubiera visto alterada. Se trataba en mayor medida de la pérdida de un aspecto funcional concreto más que una dificultad para aprender. Esta dificultad podía ser congénita u ocasionada por una lesión posterior, tal y como se había estudiado en adultos (Miranda, Fortes y Gil, 1998; Rebollo y Rodríguez, 2006).
+El término **_acalculia_**, introducido por Henschen en los años veinte, aludía a que la dificultad para el cálculo se encontraba en una serie de alteraciones neurológicas en las que estaba comprometida la capacidad para realizar cálculos mentales, sin necesidad de que la habilidad o la capacidad de razonamiento se hubiera visto alterada. Se trataba en mayor medida de la pérdida de un aspecto funcional concreto más que una dificultad para aprender. Esta dificultad podía ser congénita u ocasionada por una lesión posterior, tal y como se había estudiado en adultos (Miranda, Fortes y Gil, 1998; Rebollo y Rodríguez, 2006).
 
-La _discalculia,_ por su parte, hace referencia a las dificultades aisladas para realizar operaciones aritméticas simples o complejas y a un deterioro en la orientación de la secuencia de números y de fracciones (Miranda y Gil-Llario, 2001). En la actualidad, el término discalculia se utiliza de diferentes maneras por diferentes personas. Unos lo usan como dificultad del aprendizaje de la matemática o la aritmética; otros, como dificultad en el cálculo (Rebollo y Rodríguez, 2006).  En el siguiente epígrafe lo desarrollaremos un poco más.
+La _**discalculia**,_ por su parte, hace referencia a las dificultades aisladas para realizar operaciones aritméticas simples o complejas y a un deterioro en la orientación de la secuencia de números y de fracciones (Miranda y Gil-Llario, 2001). En la actualidad, el término discalculia se utiliza de diferentes maneras por diferentes personas. Unos lo usan como dificultad del aprendizaje de la matemática o la aritmética; otros, como dificultad en el cálculo (Rebollo y Rodríguez, 2006).  En el siguiente epígrafe lo desarrollaremos un poco más.
 
 Para Schoenfeld (1994), los alumnos consideran que las matemáticas constituyen un conocimiento dominado por reglas que deben usarse de un modo mecánico o que únicamente existe una manera de resolverlo. Las matemáticas exigen pasar mucho tiempo aplicando reglas. El alumno se convence de que si no conoce la regla apropiada no puede hacer nada. De ahí surge la dificultad.
 
@@ -128,12 +120,6 @@ Además, hay que tener en cuenta que en estas dificultades matemáticas también
 La prevalencia es de uno por cada cinco alumnos diagnosticados por trastornos de aprendizaje. Habitualmente se manifiesta durante el segundo y tercer curso, siempre y cuando no se trate de un alumno con un CI alto, entonces la manifestación se da más tarde.
 
 
-![bombilla](img/lightbulb-31254__480.png)
-
-
-_Pixabay_
-
-##   
-¡Recuerda!
+## ¡Recuerda!
 
 Los procesos del lenguaje están tan relacionados entre sí, que el alumno que presenta dificultades en la lectura también los presentará en las matemáticas y en la escritura. Habitualmente se denomina comorbilidad

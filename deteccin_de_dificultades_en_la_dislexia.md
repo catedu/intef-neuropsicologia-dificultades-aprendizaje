@@ -1,7 +1,7 @@
 # Detección de dificultades en la dislexia
 
 
-![librería saturada](img/1books-1655783__480.jpg)
+![librería saturada. Imagen tomada de Pixabay](img/1books-1655783__480.jpg)
 
 
 Las dificultades en la dislexia aparecen tanto en los procesos lectores como en la escritura. Concretamente:
@@ -10,9 +10,6 @@ Las dificultades en la dislexia aparecen tanto en los procesos lectores como en 
     
 *   En la escritura, las dificultades que aparecen con más claridad son las inversiones, permutaciones de letras (_fla_ por _fal_), las letras están mal formadas, son desiguales, etc. En ocasiones la lectura y la escritura de los números también son erróneas.
     
-
-  
-_Imagen tomada de Pixabay_
 
 De acuerdo con la Asociación Británica de Dislexia la evolución de la misma presenta las siguientes características:
 

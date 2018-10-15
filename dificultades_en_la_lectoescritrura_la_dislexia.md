@@ -1,10 +1,7 @@
 # DIFICULTADES EN LA LECTO-ESCRITRURA: LA DISLEXIA
 
 
-![letras amontonadas](img/abc-916665__480.png)
-
-
-_Imagen tomada de Pixabay_
+![letras amontonadas. Imagen tomada de Pixabay](img/abc-916665__480.png)
 
 # ¿A qué llamamos dislexia?
 
@@ -15,13 +12,7 @@ Una segunda corriente pone el énfasis en las dificultades en la expresión escr
 Habitualmente esta dificultad para aprender a leer y a escribir se asocia con un inicio tardío del desarrollo del lenguaje a un nivel fonológico, articulatorio y de fluidez, con un progreso lento en las tareas de lectura y deletreo alrededor de los siete años y con manifiestos problemas de lenguaje tanto en lectura como escritura entre los nueve y los once años. 
 
 
-![interrogantes](img/question-mark-2110767__480.jpg)
-
-
-_Imagen tomada de Pixabay_
-
-## **  
-Para reflexión**
+## **Para reflexión**
 
 **Realizas talleres de lectura en el aula?**
 
@@ -29,16 +20,7 @@ Ahora, presta atención en la lectura oral a: sustitución de unos fonemas por o
 
 En función del momento evolutivo en el que se encuentren tus alumnos (2º ciclo de infantil, 3º ciclo de primaria o 1º de la ESO) podremos hablar de una dislexia evolutiva o de una dislexia adquirida
 
-##   
-  
 
-
-![caracol con gafas](img/snail-306355__340.png)
-
-
-_Pixabay_
-
-##   
-Para saber más
+##  Para saber más
 
 [Documental acerca de la dislexia](https://www.youtube.com/watch?v=0sThOsQLRb8)

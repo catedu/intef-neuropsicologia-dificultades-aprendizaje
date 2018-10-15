@@ -1,17 +1,13 @@
 # Origen de la dislexia
 
 
-![niño leyendo](img/Nino_leyendo.jpg)
-
+![niño leyendo. Imagen tomada de Pixabay](img/Nino_leyendo.jpg)
 
 Los especialistas ponen el foco en dos posiciones con respecto al origen o etiología de esta dificultad de aprendizaje, por un lado, en los aspectos biológicos, y por otro, en los cognitivos.
 
 ## Biológico
 
 Uno de los trastornos más comunes de la lectura es la dislexia del desarrollo, la cual, a diferencia de la alexia que está relacionada con una pérdida de la capacidad de leer, asociada a un daño cerebral, se refiere a un desorden específico en la adquisición de la lectura, y se manifiesta en dificultades reiteradas y persistentes para aprender a leer. Esta dislexia del desarrollo acontece con mayor frecuencia en varones y en aquellos niños que se han incorporado tarde al sistema educativo (Donfrancesco, Lozzino y Caruso, 2010).
-
-  
-_Imagen tomada de Pixabay_
 
 Diversos estudios se han dirigido a detectar anormalidades estructurales y funcionales que pudieran ser el origen de los problemas en la adquisición de la lectura. El empleo de técnicas de neuroimagen funcional, como la tomografía por emisión de positrones, la resonancia magnética espectroscópica y la resonancia magnética funcional permiten medir cambios en la actividad metabólica, asociados a alteraciones en las redes neuronales que participan en el proceso de la lectura. Los resultados muestran que en los disléxicos hay una desconexión temporoparietooccipital y una desconexión con la corteza frontal izquierda relativa a las demandas de procesamiento auditivo rápido, así como anormalidades en las conexiones entre la corteza temporoparietal y el cerebelo con otras regiones cerebrales. Dichos hallazgos sugieren que las áreas cerebrales alteradas no sólo muestran un patrón característico de hipoactivación, sino que estas alteraciones podrían ser la causa de este padecimiento (López-Escribano, 2007; Ostrosky, Lozano y Ramírez, 2003).
 

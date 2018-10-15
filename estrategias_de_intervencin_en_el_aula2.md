@@ -1,7 +1,7 @@
 # Estrategias de intervención en el aula
 
 
-![libro abierto](img/book-863418__480.jpg)
+![libro abierto. Imagen tomada de Pixabay](img/book-863418__480.jpg)
 
 
 Existen múltiples programas de intervención en la dislexia desde una perspectiva multidisciplinar. Sin embargo, aquí nos vamos a centrar en ofrecer algunas pautas para la intervención docente en los problemas de dislexia.
@@ -10,11 +10,7 @@ Respecto a la intervención en procesos de expresión escrita, las pautas sería
 
 Respecto a la intervención en la lectura, en general el objetivo se centra en que el alumno desarrolle al máximo su capacidad de expresión y comprensión del lenguaje, consiguiendo fluidez lectora y la automatización de los subprocesos de lectura que vimos en el módulo anterior.
 
-_  
-Imagen tomada de Pixabay_
-
 Es posible potenciar este desarrollo mediante la realización de actividades como:  
-  
 
 *   **Desarrollar la** _**fluidez lectora**,_ incluyendo la identificación y reconocimiento de palabras y la comprensión.
     *   Ejercicios para aumentar la velocidad: lectura por la parte superior de la línea, aumento de la amplitud visual, pirámides y columnas.
@@ -38,13 +34,6 @@ Es posible potenciar este desarrollo mediante la realización de actividades com
     *   Realizar esquemas.
         
     *   Hacerse autopreguntas.
-        
-          
-          
-        
-
-
- ![bombilla](img/lightbulb-31254__480.png)
 
 
 ### ¡Recuerda!
@@ -52,4 +41,3 @@ Es posible potenciar este desarrollo mediante la realización de actividades com
 _En el desarrollo de una lectura y una escritura correctas tienen gran relevancia las funciones ejecutivas y la conciencia fonológica  
 _
 
-__    Imagen tomada de Pixabay__
