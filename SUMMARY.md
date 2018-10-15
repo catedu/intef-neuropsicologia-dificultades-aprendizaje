@@ -23,8 +23,8 @@
   * [PROCESAMIENTO DE LA INFORMACIÓN VISUAL](procesamiento_de_la_informacin_visual.md)
     * [¿Cómo entendemos lo que vemos?](cmo_entendemos_lo_que_vemos.md)
     * [Habilidades visoespaciales](habilidades_visoespaciales.md)
-   * [Habilidades visoperceptivas](habilidades_visoperceptivas.md)
-   * [Habilidades visomotoras](habilidades_visomotoras.md)
+    * [Habilidades visoperceptivas](habilidades_visoperceptivas.md)
+    * [Habilidades visomotoras](habilidades_visomotoras.md)
     * [Cómo se desarrolla en el niño](cmo_se_desarrolla_en_el_nio2.md)
     * [Señales de alarma](seales_de_alarma.md)
     * [Cuándo y cómo se trabaja en el aula](cundo_y_cmo_se_trabaja_en_el_aula2.md)
@@ -51,6 +51,7 @@
     * [Cuál es el desarrollo normal de estos procesos](cul_es_el_desarrollo_normal_de_estos_procesos3.md)
     * [Pautas para discriminar la alteración del proceso](pautas_para_discriminar_la_alteracin_del_proceso3.md)
     * [Actividades de enseñanza para adquirir/desarrollar el proceso](actividades_de_enseanza_para_adquirirdesarrollar_el_proceso3.md)
+* [COMPETENCIA LINGÜÍSTICA](competencia-linguistica.md)
 * [COMENTARIOS FINALES](comentarios_finales3.md)
 * [BIBLIOGRAFÍA](bibliografa4.md)
 

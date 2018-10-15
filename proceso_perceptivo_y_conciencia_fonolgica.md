@@ -34,9 +34,7 @@ En cuanto al **_diseño físico de la señal_**, el escrito es viso-espacial, mi
 
 Sobre el **_diseño social del mensaje_**, el contexto del habla es pragmáticamente funcional y socialmente interactivo, lo que implica que el habla se da principalmente para que las personas podamos comunicarnos entre nosotras. En contraste, la lectura tiene carácter individualista y es de una dirección, es decir, la lectura se realiza habitualmente en solitario y tiene como objetivo extraer información. Esto hace que el lenguaje hablado sea un proceso contextualmente conducido, es decir, el mensaje se interpreta a partir de conocimiento y marcos de referencia participados; mientras que los textos escritos están descontextualizados y requieren de un proceso focalizado sobre el significado de las proposiciones del texto y sobre la búsqueda de su contextualización.
 
-###   
-  
-Unidades perceptivas del lenguaje y conciencia fonológica
+### Unidades perceptivas del lenguaje y conciencia fonológica
 
 Cuando hablamos de percepción del lenguaje, utilizamos dos unidades perceptivas:
 

@@ -1,7 +1,7 @@
 # Cuál es el desarrollo normal de estos procesos
 
 
-![cara de bebé](img/baby-216876_1280.jpg)
+![cara de bebé. Imagen tomada de Pixabay](img/baby-216876_1280.jpg)
 
 
 El desarrollo de la **percepción del lenguaje** en el niño empieza ya en el útero de la madre, de esta manera se establecen los siguientes hitos evolutivos:
@@ -14,7 +14,7 @@ El desarrollo de la **percepción del lenguaje** en el niño empieza ya en el ú
     
 
   
-_Imagen tomada de Pixabay _  
+
   
 El aspecto más relevante en la adquisición de una correcta percepción del lenguaje, será el desarrollo de la **conciencia fonológica**, aunque establecer el momento evolutivo en que emergen las habilidades metalingüísticas necesarias para su desarrollo constituye una tarea complicada. Por un lado, no hay establecido un consenso al respecto y, por otro, no todas las habilidades siguen el mismo ritmo de adquisición ni exigen la misma demanda cognitiva. 
 

@@ -1,11 +1,7 @@
 # Pautas para discriminar la alteración del proceso
 
 
-![exclamaciones](img/exclamation-point-1421014_640.png)
-
-
-_Imagen tomada de Pixabay_
-
+![exclamaciones. Imagen tomada de Pixabay](img/exclamation-point-1421014_640.png)
   
 Los problemas de discriminación fonética afectan a la calidad y precisión de las representaciones fonológicas en el léxico, que a su vez determinan la eficiencia del sistema de procesamiento fonológico. Se han formulado dos modelos: el modelo de reestructuración léxica (Fowler, 1991) y la teoría de distintividad fonológica (Elbro, 1998). Ambos muestran que los niños con información poco precisa de fonemas y palabras tienen dificultades para establecer correspondencias entre grafemas y fonemas. Los procesos de la percepción del habla incluyen un análisis auditivo preliminar, un análisis de las características fonéticas y auditivas y una combinación de las características fonéticas en una representación fonológica. Algunas capacidades auditivas se desarrollan en etapas tempranas y otras maduran a edades más avanzadas (Munar, Rosselló, Mas, Morente y Quetgles, 2002). En relación al análisis auditivo preliminar, diferentes estudios han mostrado un efecto de la edad sobre el desarrollo del procesamiento auditivo de niños y adolescentes. Algunos estudios sugieren que los efectos madurativos son importantes en el procesamiento auditivo al menos hasta los 12-13 años (Ortiz et.al, 2008). Los estudios también sugieren que el desarrollo fonológico continúa después de la adquisición de la habilidad lectora (Medina y Serniclaes, 2005).
 
@@ -46,58 +42,91 @@ Cervera-Mérida e Ygual-Fernández (2003) elaboran una semiología de las dificu
 *   Entre las dificultades de _Integración_ se encuentran: no pronunciación de las consonantes posnucleares (sol, fin) o determinadas sílabas (pla, bra); dificultad para encadenar sonidos entre sí dentro de las palabras, pudiendo afectar a sílabas del tipo CVV; abundantes omisiones y los errores en lectura y escritura que están en función de los fonemas implicados y los tipos de sílabas.
 
 Estos mismos autores señalan la evolución de dicha seminología. Un resumen se muestra en la siguiente tabla:  
-  
 
-**Dificultades**
-
-**Estadio 1**
-
-**Estadio 2**
-
-**Estadio 3**
-
-**Estadio 4**
-
-De percepción
-
-No distingue claramente entre dos o más fonemas.
-
-Distingue cuando se le presentan a la vez los sonidos.
-
-Dificultades en tareas de reconocimiento.
-
-No clasifica el vocabulario.
-
-Es capaz de retener los fonemas en su memoria y realizar comparaciones.
-
-Puede necesitar oír la palabra para saber si tiene un fonema u otro.
-
-La distinción entre dos fonemas es correcta.
-
-No necesita previamente oír la palabra porque cuando la piensa realiza una análisis de la secuencia que ha sido memorizada.
-
-De producción
-
-No pronuncia un determinado sonido o lo sustituye por otro.
-
-Con atención no sustituye un fonema por otro.
-
-La articulación es lenta.
-
-Mejora al pronunciar sílabas aisladas.
-
-Pronuncia correctamente sílabas y palabras.
-
-De integración
-
-No integra los sonidos en las palabras.
-
-Sustituye o distorsiona en función de la palabra y de la situación de habla.
-
-Pronuncia correctamente palabras aisladas, las de mayor frecuencia y estructura sencilla.
-
-En la pronunciación rápida comete errores.
-
-Integra el fonema en cualquier palabra en su habla espontánea.
-
-Su pronunciación es similar a la de otros adultos.
+<table style="margin-left: auto; margin-right: auto;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="111" valign="top">
+<p align="center"><b>Dificultades</b></p>
+<p align="center"><b>&nbsp;</b></p>
+</td>
+<td width="151" valign="top">
+<p align="center"><b>Estadio 1</b></p>
+</td>
+<td width="162" valign="top">
+<p align="center"><b>Estadio 2</b></p>
+</td>
+<td width="141" valign="top">
+<p align="center"><b>Estadio 3</b></p>
+</td>
+<td width="141" valign="top">
+<p align="center"><b>Estadio 4</b></p>
+</td>
+</tr>
+<tr>
+<td width="111" valign="top">
+<p>De percepción</p>
+</td>
+<td width="151" valign="top">
+<p>No distingue claramente entre dos o más fonemas.</p>
+</td>
+<td width="162" valign="top">
+<p>Distingue cuando se le presentan a la vez los sonidos.</p>
+<p>&nbsp;</p>
+<p>Dificultades en tareas de reconocimiento.</p>
+<p>&nbsp;</p>
+<p>No clasifica el vocabulario.</p>
+</td>
+<td width="141" valign="top">
+<p>Es capaz de retener los fonemas en su memoria y realizar comparaciones.</p>
+<p>&nbsp;</p>
+<p>Puede necesitar oír la palabra para saber si tiene un fonema u otro.</p>
+</td>
+<td width="141" valign="top">
+<p>La distinción entre dos fonemas es correcta.</p>
+<p>&nbsp;</p>
+<p>No necesita previamente oír la palabra porque cuando la piensa realiza una análisis de la secuencia que ha sido memorizada.</p>
+</td>
+</tr>
+<tr>
+<td width="111" valign="top">
+<p>De producción</p>
+</td>
+<td width="151" valign="top">
+<p>No pronuncia un determinado sonido o lo sustituye por otro.</p>
+</td>
+<td width="162" valign="top">
+<p>Con atención no sustituye un fonema por otro.</p>
+</td>
+<td width="141" valign="top">
+<p>La articulación es lenta.</p>
+<p>&nbsp;</p>
+<p>Mejora al pronunciar sílabas aisladas.</p>
+</td>
+<td width="141" valign="top">
+<p>Pronuncia correctamente sílabas y palabras.</p>
+</td>
+</tr>
+<tr>
+<td width="111" valign="top">
+<p>De integración</p>
+</td>
+<td width="151" valign="top">
+<p>No integra los sonidos en las palabras.</p>
+</td>
+<td width="162" valign="top">
+<p>Sustituye o distorsiona en función de la palabra y de la situación de habla.</p>
+</td>
+<td width="141" valign="top">
+<p>Pronuncia correctamente palabras aisladas, las de mayor frecuencia y estructura sencilla.</p>
+<p>&nbsp;</p>
+<p>En la pronunciación rápida comete errores.</p>
+</td>
+<td width="141" valign="top">
+<p>Integra el fonema en cualquier palabra en su habla espontánea.</p>
+<p>&nbsp;</p>
+<p>Su pronunciación es similar a la de otros adultos.</p>
+</td>
+</tr>
+</tbody>
+</table>  
