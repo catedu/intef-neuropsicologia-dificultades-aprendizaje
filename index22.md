@@ -1,4 +1,4 @@
-# INTRODUCCIÓN GENERAL AL CURSO
+[En qué consiste la Teoría Pass de la inteligencia](https://dialnet.unirioja.es/descarga/articulo/5963816.pdf)# INTRODUCCIÓN GENERAL AL CURSO
 
 
 ![tomada de Pixabay](img/abc-916665__480.png)
