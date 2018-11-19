@@ -3,7 +3,6 @@
 
 ![construcciones](img/building-blocks-2026061__480.png)
 
-
 _Imagen tomada de Pixabay_
 
 La atención es una capacidad básica, no solo en el contexto académico, sino también para la vida diaria. Podemos considerar la atención como el eje que fundamenta cualquier otro proceso perceptivo y cognitivo, ya que estará involucrada en prácticamente cualquier actividad que realicemos, aunque no siempre en la misma medida.
