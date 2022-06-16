@@ -28,6 +28,6 @@ En el módulo 1 abordaremos los procesos generales implicados en el aprendizaje:
   
 ¿Cómo aprende nuestro cerebro? Explicación según la Teoría PASS de la inteligencia
 
-{% youtube %}https://www.youtube.com/watch?v=-6PMFRwvYug{% endyoutube %}
+<iframe src="//www.youtube.com/embed/-6PMFRwvYug" width="560" height="314" allowfullscreen="allowfullscreen"></iframe>
 
 [En qué consiste la Teoría Pass de la inteligencia](https://dialnet.unirioja.es/descarga/articulo/5963816.pdf)
